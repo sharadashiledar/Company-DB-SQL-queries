@@ -130,6 +130,8 @@ JOIN branch b ON e.branch_id = b.branch_id;
 -   Delete records to test constraints
 
 ------------------------------------------------------------------------
+###<img width="1275" height="1650" alt="company-database_page jpg" src="https://github.com/user-attachments/assets/402073ea-5840-4fcc-b39a-923c16e51243" />
+
 
 ## 📚 Use Cases
 
@@ -142,6 +144,7 @@ JOIN branch b ON e.branch_id = b.branch_id;
 ## 🛠️ Tech Used
 
 -   MySQL / SQL
+-   
 
 ------------------------------------------------------------------------
 
